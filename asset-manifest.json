@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/vasuldutschak/movies_info/static/css/main.e6c13ad2.css",
     "main.js": "/vasuldutschak/movies_info/static/js/main.aa45005e.js",
     "index.html": "/vasuldutschak/movies_info/index.html",
-    "main.e6c13ad2.css.map": "/vasuldutschak/movies_info/static/css/main.e6c13ad2.css.map",
     "main.aa45005e.js.map": "/vasuldutschak/movies_info/static/js/main.aa45005e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
     "static/js/main.aa45005e.js"
   ]
 }
